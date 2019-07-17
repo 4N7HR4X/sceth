@@ -1,0 +1,24 @@
+apt update && apt upgrade 
+pkg install python
+pip install --upgrade pip
+pip install request 
+pip install bs4
+pip install colorama
+termux-setup-storage
+cd /sdcard/(Tempat Naruh Sc) atau cd /storage/emulated/0/sceth
+ls
+python ETHCollector.py
+
+download aplikasi'y
+https://play.google.com/store/apps/details?id=org.cryptodiamonds.ethcollector&hl=in
+
+Setelah itu masukkan wallet ETH Agan Di sana.
+
+Selesai itu tinggal tunggu ampe proses login nya selesai ya hahhaha.
+kalo error silahkan ganti ip dengan cara on off data / mode pesawat ya
+
+BTW Min wd Sampai Balance Mencapai 0.3 point ya dan wd akan dilakukan 
+secara otomatis alias langsung di kirim ke wallet agan sebesar 0.0025 ETH
+
+tidak bisa
+nano url.json
